@@ -55,10 +55,10 @@ const Experience = () => {
             "
           >
             Worked in a fast-paced operational environment, collaborating with
-            cross-functional teams, solving process-related issues, and
-            maintaining high-quality standards. During this period, developed a
-            strong interest in software development and transitioned into
-            frontend engineering by building real-world React and MERN stack
+            cross-functional teams to resolve production issues and maintain
+            high service reliability. This experience strengthened my analytical
+            thinking, communication, and ownership while motivating my
+            transition into frontend development through hands-on React and MERN
             projects.
           </p>
         </div>

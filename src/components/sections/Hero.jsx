@@ -53,9 +53,9 @@ const Hero = () => {
               Frontend <br /> Developer
             </h1>
             <p className=" text-[#444444] text-lg leading-9 max-w-xl mb-8 font-normal pt-4 ">
-              Software Engineer with 5 years of experience building responsive
-              web applications using React, JavaScript, Tailwind CSS, and the
-              MERN stack.
+              Frontend Developer specializing in React.js, JavaScript, Tailwind
+              CSS, and the MERN stack. Passionate about building responsive,
+              user-friendly web applications and solve real-world problems.
             </p>
             <div className="flex gap-5 mt-8 pt-10">
               <button className="border-2 border-[#686000] bg-[#E9DD6B] px-6 py-3 text-[#0A0D6D] font-medium rounded-xl shadow-[2px_2px_0px_#686000] transition-all duration-300 hover:translate-x-1 hover:translate-y-1 hover:shadow-none cursor-pointer">

@@ -36,12 +36,12 @@ const About = () => {
               max-w-3xl
             "
           >
-            I'm Anandh Manoharan, a Software Engineer with 5 years of
-            professional experience. Over the years, I developed a strong
-            interest in web development and focused on building modern,
-            responsive applications using React, JavaScript, Tailwind CSS, and
-            the MERN stack. I enjoy creating clean user experiences and solving
-            real-world problems through code.
+            I'm Anandh Manoharan, a Frontend Developer with a strong foundation
+            in React.js, JavaScript, Tailwind CSS, and the MERN stack. My
+            experience at Amazon strengthened my problem-solving, collaboration,
+            and production support skills, while my personal projects allowed me
+            to build modern, responsive web applications and deepen my expertise
+            in frontend development.
           </p>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mt-20">
             <div
@@ -56,7 +56,7 @@ transition-all
 duration-300"
             >
               <h3 className="text-[#0A0D6D] text-3xl font-bold mb-2">5+</h3>
-              <p className="text-[#444444]">Years Experience</p>
+              <p className="text-[#444444]">Years Industry Experience</p>
             </div>
 
             <div
