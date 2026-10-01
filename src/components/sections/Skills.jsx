@@ -4,6 +4,7 @@ const frontendSkills = [
   "HTML5",
   "CSS3",
   "JavaScript",
+  "TypeScript",
   "Responsive Design",
   "React",
   "Tailwind CSS",

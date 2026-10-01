@@ -21,11 +21,11 @@ const projects = [
   {
     title: "Job Tracker",
     description:
-      "Application for tracking job applications, interview stages, and job search activities with responsive design and modern UI.",
-    tech: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
+      "Full-stack job tracking application with JWT authentication, CRUD operations, search, filtering, server-side pagination, and responsive UI.",
+    tech: ["React", "TypeScript", "Node.js", "Express.js", "MongoDB", "JWT"],
     image: jobTracker,
-    live: "https://job-tracker-app-t6zl.onrender.com/",
-    github: "https://github.com/Anandh25/Job-Tracker-App",
+    live: "https://job-tracker-2-0-typescript.vercel.app/",
+    github: "https://github.com/Anandh25/job-tracker-2.0-Typescript-",
     featured: true,
   },
 
