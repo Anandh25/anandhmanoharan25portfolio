@@ -12,7 +12,15 @@ const frontendSkills = [
 
 const backendSkills = ["Node.js", "Express.js", "MongoDB", "REST APIs", "JWT"];
 
-const tools = ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel"];
+const tools = [
+  "Git",
+  "GitHub",
+  "VS Code",
+  "Postman",
+  "Netlify",
+  "Vercel",
+  "Render",
+];
 
 const SkillBadge = ({ skill }) => {
   return (
